@@ -21,8 +21,10 @@ register_sidebar( array(
 
 /* --
 Display sidebar in theme
+
+<?php if ( function_exists('dynamic_sidebar') && dynamic_sidebar('Sidebar') ) : else : ?><?php endif; ?>
+
 --*/
- if ( function_exists('dynamic_sidebar') && dynamic_sidebar('Sidebar') ) : else : endif; 
 
 
 /* --------------------------------------------------------
@@ -63,7 +65,9 @@ function theme_thumb($url, $width, $height=0, $align='') {
   return mr_image_resize($url, $width, $height, true, $align, true);
 }
 
-//$thumb = theme_thumb($image_url, 800, 600, 'c'); // Crops from bottom right
+/* usage in theme
+$thumb = theme_thumb($image_url, 800, 600, 'c'); // Crops from bottom right
+*/
 
 
 
