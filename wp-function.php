@@ -22,7 +22,7 @@ register_sidebar( array(
 /* --
 Display sidebar in theme
 --*/
-<?php if ( function_exists('dynamic_sidebar') && dynamic_sidebar('Sidebar') ) : else : ?><?php endif; ?>
+ if ( function_exists('dynamic_sidebar') && dynamic_sidebar('Sidebar') ) : else : endif; 
 
 
 /* --------------------------------------------------------
