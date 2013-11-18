@@ -3,7 +3,7 @@ userguide
 
 WP guide
 --
-
+wpmayor
 
 /* --------------------------------------------------------
 REGISTER SIDEBAR 
@@ -68,6 +68,14 @@ function theme_thumb($url, $width, $height=0, $align='') {
 /* usage in theme
 $thumb = theme_thumb($image_url, 800, 600, 'c'); // Crops from bottom right
 */
+
+
+/*--------------------------------------------------------------*/
+// Enable shortcode on widget
+/*--------------------------------------------------------------*/
+
+add_filter('widget_text', 'do_shortcode');
+
 
 
 
