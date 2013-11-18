@@ -77,5 +77,25 @@ $thumb = theme_thumb($image_url, 800, 600, 'c'); // Crops from bottom right
 add_filter('widget_text', 'do_shortcode');
 
 
+/*--------------------------------------------------------------*/
+// Enable shortcode on widget
+/*--------------------------------------------------------------*/
+
+//Remove top level admin menus
+function remove_admin_menus() {
+    remove_menu_page( 'edit-comments.php' );
+    remove_menu_page( 'link-manager.php' );
+    remove_menu_page( 'tools.php' );
+    remove_menu_page( 'plugins.php' );
+    remove_menu_page( 'users.php' );
+    remove_menu_page( 'options-general.php' );
+    remove_menu_page( 'upload.php' );
+    remove_menu_page( 'edit.php' );
+    remove_menu_page( 'edit.php?post_type=page' );
+    remove_menu_page( 'themes.php' );
+}
+
+
+
 
 
