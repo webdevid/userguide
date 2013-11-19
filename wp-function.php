@@ -137,6 +137,8 @@ http://wp.tutsplus.com/tutorials/creative-coding/show-yourself-off-with-a-custom
 http://codex.wordpress.org/WordPress_Coding_Standards
 http://wp.tutsplus.com/tutorials/creative-coding/creating-a-simple-contact-form-for-simple-needs/
 http://wp.tutsplus.com/tutorials/add-lazy-loading-social-sharing-buttons-to-your-wordpress-blog/
+http://wp.tutsplus.com/tutorials/creative-coding/customizing-comments-in-wordpress-functionality-and-appearance/
+http://wp.tutsplus.com/tutorials/creative-coding/admin-panel-post-column-management/
 
 /*------------------------------------------
 the different include() , include_once(), require(), require_once()
