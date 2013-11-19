@@ -122,5 +122,46 @@ function remove_admin_submenus() {
 add_action( 'admin_menu', 'remove_admin_submenus' );
 
 
+/*----------------------------------
+how to create custome columns post type
+---------------------------------------*/
+http://shibashake.com/wordpress-theme/add-custom-post-type-columns
+http://shibashake.com/wordpress-theme/modify-custom-taxonomy-columns
+
+
+/*---------------------------------------
+wp nice link
+-------------------------------------------*/
+http://wpmu.org/how-to-write-a-wordpress-plugin-12-essential-guides-and-resources/
+http://wp.tutsplus.com/tutorials/creative-coding/show-yourself-off-with-a-custom-author-box/
+http://codex.wordpress.org/WordPress_Coding_Standards
+http://wp.tutsplus.com/tutorials/creative-coding/creating-a-simple-contact-form-for-simple-needs/
+http://wp.tutsplus.com/tutorials/add-lazy-loading-social-sharing-buttons-to-your-wordpress-blog/
+
+/*------------------------------------------
+the different include() , include_once(), require(), require_once()
+-------------------------------------------*/
+http://wp.tutsplus.com/tutorials/creative-coding/how-to-include-and-require-files-and-templates-in-wordpress/
+
+/*-----------------------------------------
+logic loop in loop
+------------------------------------------*/
+	echo 'li-';
+		$b=15;
+		for($a=1;$a<=$b;$a++){
+			echo $a;
+			$cek4 = $a %4;
+			if($cek4==0){
+			    if($a==$b){}else{
+				echo'-/li = li- <br/>';
+				}
+			}
+			
+			if($a >=$b){
+				echo '-li';
+			}
+		}  
+
+
 
 
