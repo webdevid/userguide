@@ -139,6 +139,8 @@ http://wp.tutsplus.com/tutorials/creative-coding/creating-a-simple-contact-form-
 http://wp.tutsplus.com/tutorials/add-lazy-loading-social-sharing-buttons-to-your-wordpress-blog/
 http://wp.tutsplus.com/tutorials/creative-coding/customizing-comments-in-wordpress-functionality-and-appearance/
 http://wp.tutsplus.com/tutorials/creative-coding/admin-panel-post-column-management/
+http://www.sitepoint.com/create-a-voting-plugin-for-wordpress/
+
 
 /*------------------------------------------
 the different include() , include_once(), require(), require_once()
