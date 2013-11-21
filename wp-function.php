@@ -140,6 +140,9 @@ http://wp.tutsplus.com/tutorials/add-lazy-loading-social-sharing-buttons-to-your
 http://wp.tutsplus.com/tutorials/creative-coding/customizing-comments-in-wordpress-functionality-and-appearance/
 http://wp.tutsplus.com/tutorials/creative-coding/admin-panel-post-column-management/
 http://www.sitepoint.com/create-a-voting-plugin-for-wordpress/
+http://wptheming.com/2012/03/infinite-scroll-to-wordpress-theme/
+http://wptheming.com/2012/07/options-framework-theme-customizer/
+http://www.hongkiat.com/blog/wordpress-google-cse/
 
 
 /*------------------------------------------
