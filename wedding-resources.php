@@ -13,3 +13,12 @@ http://micahblu.com/demo/?theme=wp-foundation
 http://wpsessions.com/sessions/building-wordpress-plugins/
 
 http://tympanus.net/codrops/2012/08/17/creative-background-styles-and-trends-in-web-design/
+
+http://vandelaydesign.com/blog/design/google-fonts-for-web-design/
+
+BIKE INSPIRATION //
+http://www.myownbike.de/
+
+
+HOTEL OR RESORT INSPIRATION //
+http://www.kassandrabay.com/
