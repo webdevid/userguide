@@ -22,3 +22,15 @@ http://www.myownbike.de/
 
 HOTEL OR RESORT INSPIRATION //
 http://www.kassandrabay.com/
+
+
+AUDIO 
+You can use cookies to save current playing position (Audio.currentTime) and then extract position from cookie and set it to Audio.currentTime value when loading new page.
+
+Though most ideal solution is to use Ajax to load content and HTML5 history API (history.pushState()) to alter URL without page reloading.
+
+https://groups.google.com/forum/#!topic/jplayer/KOHAIBugvso
+
+http://leafcolor.com/wp-quick-ajax/
+http://wp.tutsplus.com/tutorials/getting-loopy-ajax-powered-loops-with-jquery-and-wordpress/
+
