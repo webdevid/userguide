@@ -143,7 +143,7 @@ http://www.sitepoint.com/create-a-voting-plugin-for-wordpress/
 http://wptheming.com/2012/03/infinite-scroll-to-wordpress-theme/
 http://wptheming.com/2012/07/options-framework-theme-customizer/
 http://www.hongkiat.com/blog/wordpress-google-cse/
-
+http://themeforest.net/forums/thread/custom-wordpress-search-tutorials/29279
 
 /*------------------------------------------
 the different include() , include_once(), require(), require_once()
