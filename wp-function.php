@@ -4,6 +4,9 @@ userguide
 WP guide
 --
 wpmayor
+http://freecourses.tutsplus.com/
+
+
 
 /* --------------------------------------------------------
 REGISTER SIDEBAR 
